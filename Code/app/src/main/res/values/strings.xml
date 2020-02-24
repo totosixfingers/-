@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OVENAPP</string>
+    <string name="ena">0</string>
+    <string name="duo">0</string>
+    <string name="tria">0</string>
+    <string name="tessera">0</string>
+    <string name="MODE"><u>MODE</u></string>
+    <string name="RECIPE"><u>RECIPE</u></string>
+    <string name="TEMP1"><u>TEMPERATURE  (*C)</u></string>
+    <string name="TEMP2"><u>Temperature</u></string>
+    <string name="TIME1"><u>TIMER   (min)</u></string>
+    <string name="TIME2"><u>Timer</u></string>
+</resources>
